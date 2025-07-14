@@ -1,0 +1,28 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "CPython 3.11.13",
+  "startedAt": "2025-07-10T00:39:19.290715Z",
+  "program": "c:\\Users\\etulyon1\\mecagent-technical-test\\test.ipynb",
+  "codePath": "test.ipynb",
+  "codePathLocal": "test.ipynb",
+  "git": {
+    "remote": "https://github.com/Portfolio20224/mecagent-technical-test.git",
+    "commit": "dc94ef8cce16a7d45da9767fab42c0625ec10cb1"
+  },
+  "email": "chadrack.mayamba-hatu@etu.univ-amu.fr",
+  "root": "c:\\Users\\etulyon1\\mecagent-technical-test",
+  "host": "PE062990",
+  "executable": "c:\\Users\\etulyon1\\mecagent-technical-test\\.venv\\Scripts\\python.exe",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "509877751808",
+      "used": "204832206848"
+    }
+  },
+  "memory": {
+    "total": "16905965568"
+  },
+  "writerId": "2u9vptzhyyyvpd9g4vgh68shxii4j9vb"
+}
